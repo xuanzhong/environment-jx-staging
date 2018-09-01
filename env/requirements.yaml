@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.58
 - name: nodejx
   repository: http://chartmuseum.jx.eks.xuzhong11.test.thunderhead.io
-  version: 0.0.6
+  version: 0.0.12
