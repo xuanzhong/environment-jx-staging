@@ -8,5 +8,5 @@ dependencies:
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
 - name: nodejx
-  repository: http://chartmuseum.jx.eks.xuzhong11.test.thunderhead.io
-  version: 0.0.6
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.10
