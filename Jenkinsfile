@@ -7,6 +7,7 @@ pipeline {
   }
   environment {
     DEPLOY_NAMESPACE = "jx-staging"
+    CHART_REPOSITORY = "http://chartmuseum.jx.eks.xuzhong11.test.thunderhead.io"
   }
   stages {
     stage('Validate Environment') {
