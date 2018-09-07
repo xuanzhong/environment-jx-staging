@@ -12,7 +12,7 @@ dependencies:
   version: 2.3.58
 - name: golang-http
   repository: http://chartmuseum.jx.eks.xuzhong11.test.thunderhead.io
-  version: 0.0.2
+  version: 0.0.3
 - name: nodejx
   repository: http://chartmuseum.jx.eks.xuzhong11.test.thunderhead.io
   version: 0.0.12
